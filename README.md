@@ -1,4 +1,15 @@
-# PassGenerator
+<!-- LOGO INICIO -->
+<section id= "top">
+<div align="center">
+  <img src="passGenerator.png" alt="Logo">
+</div>
+<div align="center">
+   <a href="https://github.com/Sailok25">
+    <img src="by.png" alt="bysailok" width=150>
+    </a>
+</div>
+</br>
+
 
 ## Descripción
 Este repositorio contiene un sencillo pero eficaz programa para generar contraseñas seguras. El generador crea contraseñas de 8 caracteres, combinando letras minúsculas, números y símbolos para proporcionar una capa adicional de seguridad.
