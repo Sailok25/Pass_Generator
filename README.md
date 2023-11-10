@@ -11,8 +11,10 @@
 </br>
 
 
-## Descripción
-Este repositorio contiene un sencillo pero eficaz programa para generar contraseñas seguras. El generador crea contraseñas de 8 caracteres, combinando letras minúsculas, números y símbolos para proporcionar una capa adicional de seguridad.
+## Acerca de este repositorio - 👀
+<p>¡Bienvenido a <strong>passGenerator</strong>! 
+<p>Este repositorio contiene un sencillo pero eficaz programa para generar contraseñas seguras. El generador crea contraseñas de 8 caracteres, combinando letras <strong>minúsculas/mayusculas, números y símbolos</strong> para proporcionar una capa adicional de seguridad.
+
 
 ## Características
 - Generación de contraseñas de 8 caracteres.
