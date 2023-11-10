@@ -31,6 +31,6 @@
 
 <br><br>
 
-## Ejemplo de Uso
+## Ejemplo de Uso - 🎰
 ```bash
 En proceso
