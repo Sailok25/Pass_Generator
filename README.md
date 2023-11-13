@@ -1,10 +1,3 @@
-<div align="center">
-<p>REVISAR <b>RELEASE</b> ¡HAY NUEVAS VERSIÓNES!</p>
-</div>
-
-
-
-
 <!-- LOGO INICIO -->
 <section id= "top">
 <div align="center">
