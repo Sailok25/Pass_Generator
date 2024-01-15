@@ -19,7 +19,7 @@
 
 ## Características - ✨
 - Generación de contraseñas de 8 caracteres.
-- Inclusión de letras minúsculas, números y símbolos para mayor complejidad.
+- Inclusión de letras mayusculas, minúsculas, números y símbolos para mayor complejidad.
 - Utilización de un enfoque aleatorio para garantizar contraseñas únicas y seguras.
 
 <br><br>
